@@ -1,3 +1,3 @@
 let name = "pinky sahu";
 
-let name1 = "pinky suman";
+let fullname = "pinky suman";
